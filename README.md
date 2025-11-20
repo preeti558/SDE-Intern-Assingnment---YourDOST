@@ -314,7 +314,7 @@ If you want enhancements like:
 
 Feel free to reach out anytime.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Problem: Given an array of integers, return the second largest UNIQUE number in the array. If it doesn’t exist, return -1.
+## DSA Problem: Given an array of integers, return the second largest UNIQUE number in the array. If it doesn’t exist, return -1.
 
 ## Approach:
 1. Maintain two variables:
